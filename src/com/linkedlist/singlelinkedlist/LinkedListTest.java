@@ -27,7 +27,7 @@ public static void main(String[] args) {
 	
 	System.out.println();
 	
-	linkedList.addToSpecificPosition(22, 4);
+	linkedList.addToSpecificPosition(22, 6);
 	linkedList.traverseList();
 	
 	
